@@ -1,1 +1,2 @@
-# This is Yuriy Star's repo.
+# I'm Yuriy Star
+
